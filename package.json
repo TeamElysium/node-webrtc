@@ -1,14 +1,14 @@
 {
-  "name": "wrtc",
+  "name": "@teamelysium/wrtc",
   "private": true,
-  "description": "Standards-compliant WebRTC implementation for Node",
+  "description": "Standards-compliant WebRTC implementation for Node, modified by TeamElysium",
   "keywords": [
     "webrtc",
     "p2p",
     "peer"
   ],
-  "version": "0.4.7-dev",
-  "author": "Alan K <ack@modeswitch.org> (http://blog.modeswitch.org)",
+  "version": "0.1.0-alpha.0",
+  "author": "Min <challenger71498@gmail.com>",
   "homepage": "https://github.com/node-webrtc/node-webrtc",
   "bugs": "https://github.com/node-webrtc/node-webrtc/issues",
   "license": "BSD-2-Clause",
